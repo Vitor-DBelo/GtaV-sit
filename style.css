@@ -25,6 +25,7 @@ body{
 
 .cursor-custom{
     cursor: url('http://www.rw-designer.com/cursor-view/58443.png'), auto;
+    cursor: pointer ;
 }
 .cabecalho{
     height: 80px;
@@ -51,6 +52,7 @@ body{
      font-weight: bolder;
      font-size: 15px;
      font-family: 'chalet';
+     cursor: ponter ;
      }
 .cabecalho .menu li a:hover{
     border-bottom: 2px solid #fff;
