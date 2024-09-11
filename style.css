@@ -191,6 +191,7 @@ body{
 
 #curs-custom{
     cursor: url('http://www.rw-designer.com/cursor-view/58443.png'), auto;
+    cursor: pointer;
 }
 
 .compre-ja .btn-plataforma .plataformas{
