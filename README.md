@@ -4,7 +4,7 @@ Este é um dos primeiros projetos que desenvolvi enquanto fazia o curso de **Ass
 
 ## Descrição
 
-O site foi criado para representar o universo de **Grand Theft Auto V (GTA V)**, um dos jogos mais populares da atualidade. O objetivo era desenvolver uma página simples que tivesse informações sobre o jogo e a opção de escolher a plataforma para jogá-lo (PS5, Xbox, PC).
+O site foi criado para representar o universo de **Grand Theft Auto V (GTA V)**, um dos jogos mais populares. O objetivo era desenvolver uma página simples que tivesse informações sobre o jogo e a opção de escolher a plataforma para jogá-lo (PS5, Xbox, PC).
 
 ## Funcionalidades
 
