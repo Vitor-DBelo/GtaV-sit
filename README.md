@@ -18,7 +18,7 @@ O site foi criado para representar o universo de **Grand Theft Auto V (GTA V)**,
 - **CSS3**
 - **JavaScript**
 
-## Imagem de exemplo
+## Imagem do site
 
 ![GTA V Site](Gta_img_site.jpeg)
 
